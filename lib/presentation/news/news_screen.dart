@@ -6,7 +6,6 @@ import 'package:red_mad_robot_test/core/consts/widgets/app_loader_widget.dart';
 import 'package:red_mad_robot_test/domain/news/news_cubit.dart';
 import 'package:red_mad_robot_test/domain/news/news_state.dart';
 import 'package:red_mad_robot_test/presentation/news/widgets/news_grid_view_widget.dart';
-import 'package:red_mad_robot_test/presentation/news/widgets/news_list_item_widget.dart';
 import 'package:red_mad_robot_test/presentation/news/widgets/news_list_view_widget.dart';
 
 class NewsScreen extends StatefulWidget {
